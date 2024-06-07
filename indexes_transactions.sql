@@ -25,3 +25,4 @@ UPDATE Products
 SET Stock = Stock - 1
 WHERE ProductID = 2;
 
+COMMIT;
